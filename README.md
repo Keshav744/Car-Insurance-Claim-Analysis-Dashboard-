@@ -13,12 +13,12 @@ Project Steps:
 8. 📑 Conclusion: Summarizing findings and insights.
 
 Project Goals:
-📊 Analyze the frequency and distribution of *fraudulent claims*.
-🔍 Identify patterns suggesting a higher likelihood of fraud.
-📈 Explore correlations between claim attributes and fraud probability.
-👥 Visualize characteristics of insured individuals and policy details.
-💰 Provide insights into claim amount distributions and trends.
-📍 Uncover patterns in incident timing and location.
+1. 📊 Analyze the frequency and distribution of *fraudulent claims.
+2. 🔍 Identify patterns suggesting a higher likelihood of fraud.
+3. 📈 Explore correlations between claim attributes and fraud probability.
+4. 👥 Visualize characteristics of insured individuals and policy details.
+5. 💰 Provide insights into claim amount distributions and trends.
+6. 📍 Uncover patterns in incident timing and location.
 
 Key Insights Pages:
 1. Incident Insights
